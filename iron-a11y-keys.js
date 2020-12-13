@@ -10,7 +10,7 @@ found at http://polymer.github.io/PATENTS.txt
 */
 import '@polymer/polymer/polymer-legacy.js';
 
-import {IronA11yKeysBehavior} from '@polymer/iron-a11y-keys-behavior/iron-a11y-keys-behavior.js';
+import {IronA11yKeysBehavior} from 'iron-a11y-keys-behavior/iron-a11y-keys-behavior.js';
 import {Polymer} from '@polymer/polymer/lib/legacy/polymer-fn.js';
 /**
 `iron-a11y-keys` provides a cross-browser interface for processing
